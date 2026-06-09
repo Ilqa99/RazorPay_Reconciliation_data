@@ -1,4 +1,4 @@
-RazorPay Payment Reconciliation — SQL Project
+RazorPay Payment Reconciliation—SQL Project
 
 Problem Statement:
 Every month, the company receives a payment report from Razorpay with which finance team manually verified 1000+ transactions to find mismatches between Razorpay figures and internal DB figures taking several hours each month.
